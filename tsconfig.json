@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "jsx": "react-native",
+        "allowJs": false,
+        "lib": ["DOM", "ESNext"],
+        "noEmit": true,
+        "target": "ESNext"
+    },
+    "extends": "expo/tsconfig.base"
+}
